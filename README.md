@@ -2,7 +2,7 @@
 
 - NodeJS PHP Golang C/CPP Java is just a language to make easy to talk with CPU/MCU.
 - Kubernetes help us to manage containerized apps.
-- VSCode help us to writing a programming language.
+- VSCode help us to writing a program/apps.
 - GDB GHidra help us inspect that was built.
 - SQLi and other CWE is what hacker take benefit from other people mistake.
 
