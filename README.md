@@ -1,6 +1,6 @@
 # Like to built useful app and reverse engineering
 
-- AI is just another kind of calculator that can compute words.
+- AI is just another kind of calculator that can compute words and multimedia.
 - NodeJS PHP Golang C/CPP Java is just a language to make easy to talk with CPU/MCU.
 - Kubernetes help us to manage containerized apps.
 - VSCode help us to writing a program/apps.
