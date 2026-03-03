@@ -1,4 +1,5 @@
-# Like to built useful app and reverse engineering
+# Mochamad Arifin (Ndunks)
+## Like to built useful app and reverse engineering
 
 - AI is just another kind of calculator that can compute words and multimedia.
 - NodeJS PHP Golang C/CPP Java is just a language to make easy to talk with CPU/MCU.
@@ -7,20 +8,7 @@
 - GDB GHidra help us inspect that was built.
 - SQLi and other CWE is what hacker take benefit from other people mistake.
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ndunks&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndunks&count_private=true&show_icons=true&layout=compact)
-<!--
-**ndunks/ndunks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ndunks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ndunks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndunks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
